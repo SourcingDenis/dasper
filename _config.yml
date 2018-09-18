@@ -1,7 +1,7 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
+name: Denis Dinkevich
+description: Sourcing Denis
+email: dinkevich.hr@gmail.cim
 author: author
 lang: en
 locale: en_US
@@ -11,11 +11,11 @@ paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
-timezone: America/New_York
+timezone: Ukraine/Kiev
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://sourcingdenis.github.io/dasper/
 
 # Includes
 addthisId: ""
